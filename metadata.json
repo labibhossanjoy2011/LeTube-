@@ -1,0 +1,6 @@
+{
+  "name": "Video Streaming Platform",
+  "description": "A single-direction YouTube-like video streaming platform with AI recommendations, conversational discovery assistant, and admin publishing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
